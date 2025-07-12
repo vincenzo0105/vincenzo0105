@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Vincenzo</h1>
+<h3 align="center">A Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
-<!--
-**vincenzo0105/vincenzo0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Explorer;Always+learning+something+new" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **improving my full-stack development skills**
+- 🌱 I’m exploring **AI/ML, DevOps, and Web3**
+- 👯 I’m looking to collaborate on **open source and innovative tech projects**
+- 💬 Ask me about **React, Node.js, GitHub, or anything tech!**
+- ⚡ Fun Fact: I enjoy debugging as much as building (weird, I know 😄)
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+
+#### 🧰 Frameworks & Tools
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vincenzo0105&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=vincenzo0105&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzo0105&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

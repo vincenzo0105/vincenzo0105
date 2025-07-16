@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Om Kumavat</h1>
-<h3 align="center">A Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
+<h3 align="center">A Passionate Learner | Web Development Enthusiast | Lifelong Learner </h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Contributor;Tech+Explorer;Always+learning+something+new" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on **improving my full-stack development skills**
 - 👯 I’m looking to collaborate on **open source and innovative tech projects**
 - 💬 Ask me about **React, Node.js, GitHub, or anything tech!**
+- Always ready for new experiences and opportunities.
 
 ---
 

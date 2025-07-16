@@ -48,7 +48,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](www.linkedin.com/in/om-kumavat-09447b289)
+[![LinkedIn](https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png)](www.linkedin.com/in/om-kumavat-09447b289)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
 
 ---

@@ -20,13 +20,13 @@
 
 #### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) -->
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 #### 🧰 Frameworks & Tools
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -48,7 +48,7 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](www.linkedin.com/in/om-kumavat-09447b289)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@gmail.com)
 
 ---

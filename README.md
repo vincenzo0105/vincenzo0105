@@ -10,10 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **improving my full-stack development skills**
-- 🌱 I’m exploring **AI/ML, DevOps, and Web3**
 - 👯 I’m looking to collaborate on **open source and innovative tech projects**
 - 💬 Ask me about **React, Node.js, GitHub, or anything tech!**
-- ⚡ Fun Fact: I enjoy debugging as much as building (weird, I know 😄)
 
 ---
 
